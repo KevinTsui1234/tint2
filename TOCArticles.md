@@ -1,0 +1,6 @@
+  * [↑ Home](Welcome.md)
+    * [Installing Tint2](Install.md)
+    * [Configuring your tint2rc manually](Configure.md)
+    * [Configuring your tint2rc with tint2conf](Tint2conf.md)
+    * [Frequently Asked Questions](FAQ.md)
+    * [Run tint2 in debug mode](Debug.md)
